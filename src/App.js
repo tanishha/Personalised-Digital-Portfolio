@@ -368,6 +368,40 @@ function App() {
                 <img src="assets/img/book.png" className="img-fluid" alt="" />
 
                 <div className="portfolio-info">
+                  <h4>Covid-19 Updater</h4>
+                  <div className="portfolio-links">
+                    <a
+                      href="https://coronadt.herokuapp.com/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i className="bx bx-link"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div className="portfolio-wrap">
+                <img src="assets/img/book.png" className="img-fluid" alt="" />
+                <div className="portfolio-info">
+                  <h4>Video Chat App</h4>
+                  <div className="portfolio-links">
+                    <a
+                      href="https://videochatapp203.netlify.app/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i className="bx bx-link"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div className="portfolio-wrap">
+                <img src="assets/img/book.png" className="img-fluid" alt="" />
+                <div className="portfolio-info">
                   <h4>Shopping Cart</h4>
                   <div className="portfolio-links">
                     <a
@@ -379,6 +413,7 @@ function App() {
                     </a>
                   </div>
                 </div>
+               
               </div>
             </div>
             <div className="col-lg-4 col-md-6 portfolio-item filter-app">
@@ -396,42 +431,7 @@ function App() {
                     </a>
                   </div>
                 </div>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-6 portfolio-item filter-app">
-              <div className="portfolio-wrap">
-                <img src="assets/img/book.png" className="img-fluid" alt="" />
-
-                <div className="portfolio-info">
-                  <h4>Covid-19 Updater</h4>
-                  <div className="portfolio-links">
-                    <a
-                      href="https://coronadt.herokuapp.com/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <i className="bx bx-link"></i>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-6 portfolio-item filter-app">
-              <div className="portfolio-wrap">
-                <img src="assets/img/book.png" className="img-fluid" alt="" />
-
-                <div className="portfolio-info">
-                  <h4>Video Chat App</h4>
-                  <div className="portfolio-links">
-                    <a
-                      href="https://videochatapp203.netlify.app/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <i className="bx bx-link"></i>
-                    </a>
-                  </div>
-                </div>
+              
               </div>
             </div>
             <div className="col-lg-4 col-md-6 portfolio-item filter-app">
